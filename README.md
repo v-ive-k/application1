@@ -1,7 +1,5 @@
 # Running it in local compiler.
 
-Here's a sample **README.md** file for your project. This will help explain what you've done and how to use your application.
-
 ---
 
 # Funny Cursor Website
