@@ -1,4 +1,4 @@
-# commands fo the port forwading for grafana and promethus in kubernetes.
+#1 commands fo the port forwading for grafana and promethus in kubernetes.
 
 kubectl port-forward service/grafana 3000:80
 
